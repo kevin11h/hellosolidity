@@ -1,2 +1,0 @@
-# hellosolidity
-# hellosolidity
